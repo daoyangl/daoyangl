@@ -1,6 +1,6 @@
 👋 Hi, this is *Daoyang*.
-### ✌️ M.S. in Data Science at USC, fight on!
-### 📫 ldy990912@gmail.com / daoyangl@usc.edu
+✌️ M.S. in Data Science at USC, fight on!
+📫 ldy990912@gmail.com / daoyangl@usc.edu
 
 <!--
 **daoyangl/daoyangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
