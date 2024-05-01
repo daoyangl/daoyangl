@@ -1,6 +1,7 @@
 ### 👋 Hi, this is *Daoyang*.
 - ✌️ M.S. in Data Science at USC, fight on!
 - 📫 ldy990912@gmail.com / daoyangl@usc.edu
+- [点击访问OpenAI](https://www.openai.com)
 - ⚡ Change is good!
 
 <!--
