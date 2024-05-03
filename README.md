@@ -1,5 +1,5 @@
 ### 👋 Hi, this is *Daoyang*.
-- ✌️ M.S. in Data Science at USC[https://www.usc.edu/], fight on!
+- ✌️ M.S. in Data Science at [USC](https://www.usc.edu/), fight on!
 - 📫 ldy990912@gmail.com / daoyangl@usc.edu
 - ⚡ Change is good!
 
