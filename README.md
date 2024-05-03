@@ -1,7 +1,6 @@
 ### 👋 Hi, this is *Daoyang*.
 - ✌️ M.S. in Data Science at USC, fight on!
 - 📫 ldy990912@gmail.com / daoyangl@usc.edu
-- [OPGG](https://www.op.gg/summoners/na/stiffdeacon-NA1)
 - ⚡ Change is good!
 
 <!--
