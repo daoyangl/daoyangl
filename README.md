@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=daoyang_website&style=for-the-badge&url=https%3A%2F%2Fdaoyangl.github.io)](https://daoyangl.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/daoyang?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDaoyangLi&screen_name=DaoyangLi)
 
-### I am a machine learning enthusiast and explorer.
+### I'm a machine learning enthusiast and explorer.
 - ✌️ M.S. in Data Science at [USC](https://www.usc.edu/), fight on!
 - 👨‍💻 I’m passionate about creating delightful things that help people live a more fulfilling life.
 - 🎻 Outside of work, I love music and anime.
