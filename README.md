@@ -1,6 +1,6 @@
 ### 👋 Hi, this is *Daoyang*.
 
-[![Website](https://img.shields.io/website?label=daoyangl website&style=for-the-badge&url=https%3A%2F%2Floganyang.com)](https://daoyangl.github.io/)
+[![Website](https://img.shields.io/website?label=daoyangl.github.io&style=for-the-badge&url=https%3A%2F%2Floganyang.com)](https://daoyangl.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/daoyang?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flogancyang&screen_name=DaoyangLi)
 
 - ✌️ M.S. in Data Science at [USC](https://www.usc.edu/), fight on!
