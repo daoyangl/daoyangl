@@ -5,6 +5,7 @@
 
 ### I am a machine learning enthusiast and explorer.
 
+- 👨‍💻 I’m passionate about creating delightful things that help people live a more fulfilling life.
 - ✌️ M.S. in Data Science at [USC](https://www.usc.edu/), fight on!
 - 🎻 Outside of work, I love music and anime.
 - 🌱 8 hour of sleep + 4 hours of deep work + 45 minutes of exercise + 30 minutes of reading + 1 stimulating conversation + 1 really good cup of coffee = The formula to become superhuman.
