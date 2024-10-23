@@ -3,6 +3,9 @@
 - 📫 ldy990912@gmail.com / daoyangl@usc.edu
 - 🌱 8 hour of sleep + 4 hours of deep work + 45 minutes of exercise + 30 minutes of reading + 1 stimulating conversation + 1 really good cup of coffee = The formula to become superhuman.
 
+[<img align="left" alt="logancyang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 <!--
 **daoyangl/daoyangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
